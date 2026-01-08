@@ -28,8 +28,8 @@ PDF report.
 
 ## Files
 - `kpi_analysis.py` — main analysis script
-- `balances_2024.csv` — account balance history (anonymized)
-- `balance_history.csv` — account balance history (anonymized)
+- `balances_2024.csv` — account balance history
+- `balance_history.csv` — account balance history
 - `output/KPI_Report_YTD_2025.pdf` — example output
 
 ## How to Run
